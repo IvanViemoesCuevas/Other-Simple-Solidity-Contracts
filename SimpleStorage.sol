@@ -1,4 +1,4 @@
-//SPDX-License-Identifier: MIT
+//SPDX-License-Identifier: UNILCENSED
 pragma solidity ^0.6.0;
 
 contract SimpleStorage {
